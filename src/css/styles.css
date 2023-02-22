@@ -42,9 +42,10 @@ body {
 
 .flag {
   display: inline-block;
-  width: 20px;
+  width: 30px;
   height: 20px;
-  background-size: contain;
+  background-size: cover;
+  background-position: center;
 }
 .title {
   font-size: 18px;
